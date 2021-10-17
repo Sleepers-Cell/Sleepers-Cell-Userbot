@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "LEGEND BOT"
+          find: "https://github.com/LEGENDXOP/LEGEND-BOT"
 
-          replace: "Sleepers Cell"
+          replace: "https://gthub.com/Sleepers-Cell/Sleepers-Cell-Userbot"
 
       - name: Pull All Updates
 
